@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: lumi@mit.edu
+#phone:
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: Cambridge
+  region: MA
+  postcode: '02142'
   country: United States
   country_code: US
 coordinates:
