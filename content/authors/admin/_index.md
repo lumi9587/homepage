@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a fourth-year Ph.D Candidate at Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. I work in Computational Connectomics group and am fortunate to be advised by Prof. Nir Shavit at MIT, and co-advised by Prof. Aravinthan Samuel and Prof. Jeff Lichtman at Harvard.  I received my M.S. degree at MIT EECS, and B.S. degree at Tsinghua.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
