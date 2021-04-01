@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lu Mi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: MIT CSAIl
+  url: https://www.csail.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a fourth-year Ph.D Candidate at Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. I work in Computational Connectomics group and am fortunate to be advised by Prof. Nir Shavit at MIT, and co-advised by Prof. Aravinthan Samuel and Prof. Jeff Lichtman at Harvard.  I received my M.S. degree at MIT EECS, and B.S. degree at Tsinghua. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Computational Neuroscience
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD Candidate in Computer Science
+    institution: MIT EECS
+    year: 2017-Present
+  - course: MS in Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2017-2019
+  - course: BS in Measurement, Control and Instruments
+    institution: Tsighua University
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
