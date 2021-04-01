@@ -72,6 +72,5 @@ highlight_name: false
 
 I'm a fourth-year Ph.D Candidate at Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. I work in Computational Connectomics group and am fortunate to be advised by Prof. Nir Shavit at MIT, and co-advised by Prof. Aravinthan Samuel and Prof. Jeff Lichtman at Harvard.  I received my M.S. degree at MIT EECS, and B.S. degree at Tsinghua.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
